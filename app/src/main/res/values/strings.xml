@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CourtCounter</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="zero">0</string>
+    <string name="hasil2">0</string>
+    <string name="reset">RESET</string>
+    <string name="tigapoints">+3 POINTS</string>
+    <string name="duapoints">+2 POINTS</string>
+    <string name="free_throww" />
+    <string name="free_throw2">FREE THROW</string>
+    <string name="b_duapoints">+2 POINTS</string>
+    <string name="b_tigapoints">+3 POINTS</string>
+    <string name="b_freethrow">FREE THROW</string>
+    <string name="nama_kharis_zakaria">Nama : Kharis Zakaria</string>
+    <string name="nim">NIM : 6706180122</string>
+    <string name="kelas">Kelas : 4203</string>
+</resources>
